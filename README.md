@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am M.Esat Özhölçek
+
+### Skills
+![Esat's GitHub stats](https://github-readme-stats.vercel.app/api?username=esatozholcek&show_icons=true&theme=radical)
 
 <!--
 **esatozholcek/esatozholcek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
